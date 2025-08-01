@@ -91,8 +91,6 @@
       "type": "movie",
       "query": "华语"
     },
-    "custom_category": [
-    {
       "name": "动作",
       "type": "movie",
       "query": "动作"
