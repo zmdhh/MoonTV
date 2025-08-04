@@ -1,10 +1,4 @@
 {
-  "name": "电影天堂热门",
-  "type": "list",
-  "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-  "searchable": true
-},
-{
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
@@ -107,7 +101,13 @@
       "name": "动画片",
       "type": "movie",
       "query": "动画片"
-    }
+    },
+    {
+  "name": "电影天堂热门",
+  "type": "list",
+  "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+  "searchable": true
+}
     
   ]
 }
